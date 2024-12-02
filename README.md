@@ -7,7 +7,7 @@ About This Project
 
 🌟 Tech Stack: React.js, Node.js, Express.js, MongoDB, Chakra UI
 
-🔥 Features:
+Features 🔥:
 
 Built a fully functional API
 
